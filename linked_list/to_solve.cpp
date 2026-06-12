@@ -10,8 +10,10 @@ LinkedList(){
 head = NULL;
 }
 
-void insertFront(int x);
+void insertFront(int x);  
+// done
 void insertEnd(int x);
+// done
 void insertPosition(int pos,int x);
 void deleteFront();
 void deleteLast();
